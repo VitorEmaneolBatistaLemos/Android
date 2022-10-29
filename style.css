@@ -27,11 +27,13 @@
 body{
     font-family: var(--fonte-padrao);
     background-color: var(--cor0);
+    max-height: 1360px;
+    min-width: 200px;
 }
 
 header{
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
-    min-height: 150px;
+    max-height: 150px;
     text-align: center;
     padding-top: 40px;
 }
