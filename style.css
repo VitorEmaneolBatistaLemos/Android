@@ -28,7 +28,7 @@ body{
     font-family: var(--fonte-padrao);
     background-color: var(--cor0);
     max-height: 1360px;
-    min-width: 200px;
+    min-width: 560px;
 }
 
 header{
